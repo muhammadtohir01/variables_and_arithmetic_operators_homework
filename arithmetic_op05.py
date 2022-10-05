@@ -5,3 +5,8 @@
 # Create a variable called "answer".
 
 # Find the division of a and b then assign to "answer".
+
+
+a=72
+b=9
+answer = a/b
