@@ -7,4 +7,4 @@
 # find the difference of a and b then assign to "answer"
 a = 6
 b = 2
-answer = a-barit
+answer = a - b 
