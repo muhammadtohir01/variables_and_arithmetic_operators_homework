@@ -5,3 +5,6 @@
 # Create a variable called 'answer'.
 
 # Find the multiplication of a and b then assign to 'answer'
+a=5
+b=4
+answer = a*b
